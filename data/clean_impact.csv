@@ -1,0 +1,93 @@
+provider,region,country,gCO2_per_kWh,pue,offset
+Google Cloud Platform,Unknown,Taiwan,557,1.12,100
+Google Cloud Platform,Unknown,China,702,1.105,100
+Google Cloud Platform,Unknown,Japan,516,1.105,100
+Google Cloud Platform,Unknown,Japan,516,1.105,100
+Google Cloud Platform,Unknown,India,920,1.105,100
+Google Cloud Platform,Unknown,Singapore,419,1.12,100
+Google Cloud Platform,Unknown,Australia,802,1.105,100
+Google Cloud Platform,Unknown,Finland,211,1.09,100
+Google Cloud Platform,Unknown,Belgium,267,1.09,100
+Google Cloud Platform,Unknown,United Kingdom,623,1.105,100
+Google Cloud Platform,Unknown,Germany,615,1.105,100
+Google Cloud Platform,Unknown,Netherlands,569,1.09,100
+Google Cloud Platform,Unknown,Switzerland,16,1.105,100
+Google Cloud Platform,Unknown,Canada,34.5,1.105,100
+Google Cloud Platform,Unknown,Brazil,205,1.105,100
+Google Cloud Platform,Unknown,USA,566.3,1.11,100
+Google Cloud Platform,Unknown,USA,367.8,1.11,100
+Google Cloud Platform,Unknown,USA,367.8,1.1,100
+Google Cloud Platform,Unknown,USA,297.6,1.1,100
+Google Cloud Platform,Unknown,USA,240.6,1.105,100
+Google Cloud Platform,Unknown,USA,272.1,1.105,100
+Amazon Web Services,US East (Ohio),USA,568.2,1.105,0
+Amazon Web Services,US East (N. Virginia),USA,367.8,1.105,0
+Amazon Web Services,US West (N. California),USA,240.6,1.105,0
+Amazon Web Services,US West (Oregon),USA,297.6,1.105,100
+Amazon Web Services,Asia Pacific (Hong Kong),China,702,1.105,0
+Amazon Web Services,Asia Pacific (Mumbai),India,920,1.105,0
+Amazon Web Services,Asia Pacific (Osaka-Local),Japan,516,1.105,0
+Amazon Web Services,Asia Pacific (Seoul),South Korea,517,1.105,0
+Amazon Web Services,Asia Pacific (Singapore),Singapore,419,1.105,0
+Amazon Web Services,Asia Pacific (Sydney),Australia,802,1.105,0
+Amazon Web Services,Asia Pacific (Tokyo),Japan,516,1.105,0
+Amazon Web Services,Canada (Central),Canada,20,1.105,100
+Amazon Web Services,China (Beijing),China,680,1.105,0
+Amazon Web Services,China (Ningxia),China,680,1.105,0
+Amazon Web Services,EU (Frankfurt),Germany,615,1.105,100
+Amazon Web Services,EU (Ireland),Ireland,617,1.105,100
+Amazon Web Services,EU (London),United Kingdom,623,1.105,0
+Amazon Web Services,EU (Paris),France,105,1.105,0
+Amazon Web Services,EU (Stockholm),Sweden,47,1.105,0
+Amazon Web Services,South America (São Paulo),Brazil,205,1.105,0
+Amazon Web Services,AWS GovCloud (US-East),USA,568.2,1.105,0
+Amazon Web Services,AWS GovCloud (US),USA,297.6,1.105,100
+Azure,East Asia,Hong Kong,702,1.105,100
+Azure,Southeast Asia,Singapore,419,1.105,100
+Azure,Central US,USA,736.6,1.105,100
+Azure,East US,USA,367.8,1.105,100
+Azure,East US 2,USA,367.8,1.105,100
+Azure,West US,USA,240.6,1.105,100
+Azure,North Central US,USA,568.2,1.105,100
+Azure,South Central US,USA,460.4,1.105,100
+Azure,North Europe,Ireland,617,1.105,100
+Azure,West Europe,Netherlands,569,1.105,100
+Azure,Japan West,Japan,516,1.105,100
+Azure,Japan East,Japan,516,1.105,100
+Azure,Brazil South,Brazil,205,1.105,100
+Azure,Australia East,Australia,802,1.105,100
+Azure,Australia Southeast,Australia,805,1.105,100
+Azure,South India,India,920,1.105,100
+Azure,Central India,India,920,1.105,100
+Azure,West India,India,920,1.105,100
+Azure,Canada Central,Canada,69.3,1.105,100
+Azure,Canada East,Canada,20,1.105,100
+Azure,UK South,United Kingdom,623,1.105,100
+Azure,UK West,United Kingdom,623,1.105,100
+Azure,West Central US,USA,297.6,1.105,100
+Azure,West US 2,USA,297.6,1.105,100
+Azure,Korea Central,South Korea,517,1.105,100
+Azure,Korea South,South Korea,517,1.105,100
+Azure,France Central,France,105,1.105,100
+Azure,France South,France,105,1.105,100
+Azure,Australia Central,Australia,900,1.105,100
+Azure,Australia Central 2,Australia,900,1.105,100
+Azure,South Africa North,South Africa,1009,1.105,100
+Azure,South Africa West,South Africa,1009,1.105,100
+OVHCloud,Gravelines,France,105,1.105,0
+OVHCloud,Beauharnois,Canada,20,1.105,0
+Scaleway,Paris,France,105,1.105,100
+CoreWeave,US East,USA,282.75,1.105,0
+CoreWeave,US Central,USA,424.5,1.105,0
+CoreWeave,US West,USA,474.58,1.105,0
+Seeweb,Frosinone 2,Italy,0,1.2,0
+AWS,us-east,USA,0.42,1.2,0
+AWS,us-west,USA,0.39,1.2,0
+Azure,eastus,USA,0.41,1.25,0
+GCP,us-central1,USA,0.4,1.15,0
+AWS,eu-west,Ireland,0.28,1.3,0
+Azure,westeurope,Netherlands,0.3,1.25,0
+GCP,europe-west1,Belgium,0.29,1.2,0
+AWS,ap-south,India,0.63,1.4,0
+Azure,centralindia,India,0.6,1.35,0
+GCP,asia-south1,India,0.62,1.4,0

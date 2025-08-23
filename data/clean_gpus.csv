@@ -1,0 +1,66 @@
+name,type,power_watts,memory_gb
+A100 PCIe 40/80GB,gpu,250,40
+A100 SXM4 80 GB,gpu,400,80
+AGX Xavier,gpu,30,16
+AMD RX480,gpu,150,8
+GIGABYTE GTX 1660 OC,gpu,120,6
+GTX 1080 Ti,gpu,250,11
+GTX 1080,gpu,180,8
+GTX 750,gpu,250,24
+GTX TITAN X,gpu,250,12
+Quadro K6000,gpu,225,12
+Quadro P6000,gpu,250,24
+RTX 2080 Ti,gpu,250,11
+RTX 2080,gpu,215,8
+RTX 8000,gpu,260,48
+T4,gpu,70,16
+Tesla K40c,gpu,245,12
+Tesla K80,gpu,300,12
+Tesla M40 24GB,gpu,250,12
+Tesla P100,gpu,250,16
+Tesla P40,gpu,250,24
+Tesla V100-PCIE-16GB,gpu,300,16
+Tesla V100-SXM2-16GB,gpu,250,16
+Tesla V100-SXM2-32GB,gpu,300,32
+Titan RTX,gpu,280,24
+Titan V,gpu,250,12
+TITAN X Pascal,gpu,250,12
+Titan Xp,gpu,250,12
+TPUv2 Chip,tpu,221,64
+TPUv3 Chip,tpu,283,128
+RTX 3080,gpu,320,10
+RTX 3080 TI,gpu,350,12
+RTX 3090,gpu,350,24
+RTX 4090,gpu,300,24
+RTX A4000,gpu,140,16
+RTX A5000,gpu,230,24
+RTX A6000,gpu,300,48
+Intel Xeon E5-2699,cpu,145,16
+Intel Xeon E5-2630v4,cpu,85,16
+Intel Xeon E5-2650,cpu,105,16
+Intel Xeon Gold 5220,cpu,125,16
+Intel Xeon Gold 6148,cpu,150,16
+L4,gpu,72,24
+AMD EPYC 7763,cpu,280,16
+AMD EPYC 7282,cpu,120,16
+AMD EPYC 7702,cpu,200,16
+RTX 5090,gpu,575,32
+RTX 4080 Super,gpu,320,16
+RTX 4070 Ti,gpu,285,12
+RTX 4060 Ti,gpu,220,8
+RTX 3050,gpu,130,8
+RTX 2080 Ti,gpu,250,11
+RTX 2080,gpu,215,8
+RTX 8000,gpu,260,48
+Tesla V100,gpu,250,16
+Tesla P100,gpu,250,16
+Tesla P40,gpu,250,24
+Tesla K80,gpu,300,12
+Tesla M40 24GB,gpu,250,12
+Quadro RTX 8000,gpu,295,48
+AMD RX 9070 XT,gpu,355,24
+AMD RX 9060 XT,gpu,290,16
+AMD RX 7600 XT,gpu,210,16
+AMD RX 6600 XT,gpu,180,8
+Intel Xeon E5-2699,cpu,145,16
+TPUv4,tpu,300,128
