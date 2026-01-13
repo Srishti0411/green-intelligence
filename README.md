@@ -1,12 +1,27 @@
-# green-intelligence
-A Streamlit-powered web app that calculates and visualizes the carbon footprint of running machine learning workloads on different GPUs and CPUs. It provides interactive dashboards, custom input options, and smart recommendations  to help researchers and developers optimize model training for both performance and sustainability.
-✨ Features
+##  Green Intelligence
 
-- 📊 Interactive Dashboard – Visualize GPU & CPU usage trends with dynamic graphs.  
-- 🔮 Predictions – Estimate model run-time energy consumption.  
-- 🌱 Emissions Tracking – Convert energy usage into CO₂ footprint estimates.  
-- 💡 Recommendations – AI-generated tips (powered by Cohere) to reduce energy costs and carbon emissions.  
-- 📘 Insights – Facts and best practices about sustainable AI.  
-- 🎨 Beautiful UI – Custom theme, sticky navbar, and professional design for smooth user experience.  
+**Green Intelligence** is a data-driven web application that analyzes and predicts the **energy consumption and carbon footprint of machine learning workloads** across different hardware configurations.
+
+The project combines **regression modeling**, **interactive visualizations**, and **AI-generated sustainability insights** to help users make more environmentally responsible ML decisions.
+
+###  Features
+
+*  **Interactive Dashboard** – Explore energy usage and CO₂ emissions across devices and model types
+*  **Regression Analysis** – Linear regression to predict energy consumption with performance metrics
+*  **Predictor Tool** – Estimate energy and CO₂ emissions for custom ML workloads
+*  **AI-Powered Insights** – Actionable sustainability recommendations 
+*  **Modern UI** – Built with Streamlit and Plotly for a clean, interactive experience
 
 
+###  Tech Stack
+
+* **Python**
+* **Streamlit**
+* **Pandas, NumPy**
+* **Scikit-learn**
+* **Plotly**
+* **Groq API** 
+
+###  Project Goal
+
+This project demonstrates how machine learning systems themselves can be evaluated for sustainability, combining data analysis, regression modeling, and responsible AI practices in a single application.
