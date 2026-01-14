@@ -6,3 +6,4 @@ plotly
 python-dotenv
 groq
 rich<14
+matplotlib
