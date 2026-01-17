@@ -1,9 +1,9 @@
-streamlit==1.31.1
-pandas
+streamlit
 numpy
+pandas
 scikit-learn
-plotly
-python-dotenv
-groq
-rich<14
 matplotlib
+seaborn
+plotly
+groq
+python-dotenv
